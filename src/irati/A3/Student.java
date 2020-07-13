@@ -1,4 +1,4 @@
-package A3;
+package irati.A3;
 
 public class Student {
     private String fullname;

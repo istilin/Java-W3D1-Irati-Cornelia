@@ -1,10 +1,12 @@
-package A5;
+package irati.A5;
+
+import irati.Warehouse;
 
 import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        Warehouse warehouse = new Warehouse();
+        Warehouse warehouse = new irati.A5.Warehouse();
         ArrayList <String> newArray = new ArrayList<>();
         warehouse.setInventory(newArray);
         warehouse.fillInventory("hammer");

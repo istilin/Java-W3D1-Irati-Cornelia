@@ -1,4 +1,4 @@
-package A6;
+package irati.A6;
 
 public class Pet extends Product {
     @Override

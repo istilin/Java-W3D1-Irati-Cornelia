@@ -1,4 +1,4 @@
-package A3;
+package irati.A3;
 import java.util.*;
 
 public class Main {

@@ -1,6 +1,4 @@
-package A4.package1;
-
-import A4.package2.C;
+package irati.A4.package1;
 
 public class A {
 

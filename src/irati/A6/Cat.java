@@ -1,4 +1,4 @@
-package A6;
+package irati.A6;
 
 public class Cat extends Pet {
     private String ignores;

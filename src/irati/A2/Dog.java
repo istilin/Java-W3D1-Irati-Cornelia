@@ -1,4 +1,4 @@
-package A2;
+package irati.A2;
 
 public class Dog {
 

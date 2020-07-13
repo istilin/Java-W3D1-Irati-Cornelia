@@ -1,4 +1,4 @@
-package A5;
+package irati.A5;
 import java.util.*;
 
 public class Warehouse {

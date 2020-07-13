@@ -1,4 +1,4 @@
-package A1;
+package irati.A1;
 
 public class Main {
     public static void main(String[] args) {

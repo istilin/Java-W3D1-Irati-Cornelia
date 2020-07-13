@@ -1,4 +1,4 @@
-package A4.package1;
+package irati.A4.package1;
 
 public class B {
 
